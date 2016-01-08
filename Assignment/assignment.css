@@ -1,0 +1,20 @@
+.crop-img{
+    max-height:150px;
+    max-width:100%;
+}
+
+.large-img{
+    max-width:100%;
+}
+
+.carousel-img{
+    margin: auto;
+    padding: 10px;
+    max-height:300px;
+    min-width:100%;
+
+}
+
+.album-thumbnail, .photo-thumbnail{
+    cursor: pointer;
+}
